@@ -125,12 +125,12 @@ const App = () => {
                   Generate Trip Outline
                 </button>}
 
-                <div className="flex gap-5">
+                {/* <div className="flex gap-5">
                   <button 
                   // onClick={fatchallplan}
                   className="w-full font-bold flex justify-center py-2 px-4 border border-transparent rounded-lg shadow-sm text-lg  bg-[#2c6664] text-[#FFEDF3] uppercase tracking-widest hover:bg-[#2b5749]  focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#2c6664] transition-colors duration-200">Get All pre-Generated Travel Plan </button>
                   <button className="w-full font-bold flex justify-center py-2 px-4 border border-transparent rounded-lg shadow-sm text-lg  bg-[#2c6664] text-[#FFEDF3] uppercase tracking-widest hover:bg-[#2b5749]  focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#2c6664] transition-colors duration-200">Download Generated Plan </button>
-                </div>
+                </div> */}
 
               </div>
             </div>
